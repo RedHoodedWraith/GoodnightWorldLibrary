@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rowan/Development/CMakePlayground/GoodnightWorldLibrary/goodnight.cpp
+goodnight.h
+/home/rowan/Development/CMakePlayground/GoodnightWorldLibrary/goodnight.h
+
+/home/rowan/Development/CMakePlayground/GoodnightWorldLibrary/goodnight.h
+iostream
+-
+string
+-
+
