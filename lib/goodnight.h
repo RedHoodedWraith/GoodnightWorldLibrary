@@ -12,7 +12,7 @@
 
 class goodnight {
 public:
-    void sayGoodnight(std::string p);
+    void static sayGoodnight(std::string p);
 };
 
 
