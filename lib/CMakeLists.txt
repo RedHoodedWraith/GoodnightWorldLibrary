@@ -1,0 +1,1 @@
+add_library(${CMAKE_PROJECT_NAME} goodnight.cpp goodnight.h)
