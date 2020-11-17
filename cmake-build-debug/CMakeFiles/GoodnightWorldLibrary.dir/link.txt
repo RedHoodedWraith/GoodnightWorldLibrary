@@ -1,2 +1,0 @@
-/usr/bin/ar qc libGoodnightWorldLibrary.a  CMakeFiles/GoodnightWorldLibrary.dir/goodnight.cpp.o
-/usr/bin/ranlib libGoodnightWorldLibrary.a

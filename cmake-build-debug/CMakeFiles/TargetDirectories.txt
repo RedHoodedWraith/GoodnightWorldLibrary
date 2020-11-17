@@ -1,3 +1,0 @@
-/home/rowan/Development/CMakePlayground/GoodnightWorldLibrary/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/rowan/Development/CMakePlayground/GoodnightWorldLibrary/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/rowan/Development/CMakePlayground/GoodnightWorldLibrary/cmake-build-debug/CMakeFiles/GoodnightWorldLibrary.dir
